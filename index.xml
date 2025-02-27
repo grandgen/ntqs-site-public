@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noble Touch Quality Systems on NTQS</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Noble Touch Quality Systems on NTQS</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Need a robust and compliant quality system to bring your medical device to the market? We do it all!&lt;/p&gt;&#xA;&lt;p&gt;Robust and compliant quality management system services, the complex regulated task of bringing medical device to the market can be easier by partnering with Noble Touch quality management systems who are experts in working with variety of national/international regulations FDA 21 CFR820, ISO 13485:2016, MDSAP, and CE Mark under MDR.&#xA;With the Collaborative approach of your device design knowledge and our strong regulatory framework we help companies to achieve and maintain QMS certifications, product regulatory clearance, ISO certifications, risk management, corrective and preventive actions, Complaint handling, and Internal audits.&#xA;Our team of experienced quality engineers includes ASQ certified medical device auditors for variety of regulations 21 CFR 820,ISO 13485, MDSAP, EU MDR etc.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Our specialists can evaluate your needs and tell you how we can help you streamline quality and compliance. Fill in your details and we will be in touch shortly!&lt;/p&gt;&#xA;&lt;p&gt;Are you a NTQS customer with a support question?&#xA;Email support directly at &lt;a href=&#34;mailto:metroplexcare@gmail.com&#34;&gt;metroplexcare@gmail.com&lt;/a&gt; to get a quick response.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;form class=&#34;black-80 sans-serif&#34; accept-charset=&#34;UTF-8&#34; action=&#34;https://formspree.io/f/xpwqgvqw&#34; method=&#34;POST&#34; role=&#34;form&#34;&gt;&#xD;&#xA;&#xD;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34;  for=&#34;name&#34;&gt;Your Name&lt;/label&gt;&#xD;&#xA;    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;name&#34;/&gt;&#xD;&#xA;&#xD;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;email&#34;&gt;Email Address&lt;/label&gt;&#xD;&#xA;    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;email&#34;/&gt;&#xD;&#xA;    &lt;div class=&#34;requirements f6 gray glow i ph3 overflow-hidden&#34;&gt;&#xD;&#xA;      An email address is required.&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;message&#34;&gt;Message&lt;/label&gt;&#xD;&#xA;    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn h4&#34; aria-labelledby=&#34;message&#34;&gt;&lt;/textarea&gt;&#xD;&#xA;&#xD;&#xA;    &lt;input class=&#34;db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black&#34; type=&#34;submit&#34; value=&#34;Send&#34; /&gt;&#xD;&#xA;&#xD;&#xA;&lt;/form&gt;</description>
+    </item>
+    <item>
+      <title>Internal audit/Supplier audit</title>
+      <link>http://localhost:1313/post/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/chapter-2/</guid>
+      <description>&lt;p&gt;Identifying flaws in your own quality management system preferred approach than caught by FDA or regulatory authorities which can even result in revoked license to market medical devices.&lt;/p&gt;&#xA;&lt;p&gt;Our team of ASQ certified medical device auditors demonstrate expertise in auditing all the functional elements of the QMS at once or in parts (Major subsystem/ Minor Subsystem) as needed based on CFR820, ISO13485, EU MDR regulations. We practice risk-based approach to identify risks and opportunities for our clints.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Medical device design control</title>
+      <link>http://localhost:1313/post/chapter-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/chapter-4/</guid>
+      <description>&lt;p&gt;In a medical device regulatory world, device shall be manufactured such that during normal condition of use are suitable for the intended purpose, safe, and effective. The risk should be reduced as far as possible. We provide support in each aspect of the design and manufacturing process from product realization through verification/ validation studies to post market planning and process. Our experts will help you to develop Risk management process, Clinical evaluation process, Technical documentation at each step of design and development, corrective action and recall process to name a few.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Medical device Validation</title>
+      <link>http://localhost:1313/post/chapter-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/chapter-6/</guid>
+      <description>&lt;p&gt;Product and process validation, throughout the lifecycle of medical devices from development/manufacturing to post market is a crucial quality management system requirement. We provide services for setting qualifications, validation/verification activities for product manufacturing process, facility and equipment validation studies, Test method validation studies, Master validation plan, software tool validation, SaMD validation. Our services includes writing customized templates for test protocols and reports, clinical trials plan and reports, Supporting IQ/PQ/OQ and other documentation that ensure the reliability and effectiveness of the device with its intended use, supporting you through facility/process improvements or Gap analysis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quality System development and Remediation</title>
+      <link>http://localhost:1313/post/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/chapter-1/</guid>
+      <description>&lt;p&gt;We offer curated quality system development master plan from supporting early stage of design realization through marketing/commercialization to post market surveillance for class I to class III medical devices regardless of the size of the company. Our regulatory expertise include, implantable, diagnostics, wearables, SaMDs (software as a medical device).&#xA;We offer help in either over all creation/implementation of whole customized QMS or just specific areas QMS as per need basis- Design Control, Risk Management, Internal/Supplier audits, CAPA, Complaint handling, Vendor approval list, Verification /validation plans and reports.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quality Training</title>
+      <link>http://localhost:1313/post/chapter-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/chapter-5/</guid>
+      <description>&lt;p&gt;Definition of quality system includes not only processes and procedure but also the organizational structure, responsibilities and resources necessary to manage quality. Quality management training to all the employees as per their roles and responsibility is crucial for a compliance and success of the company. The areas of training includes- Quality Manual, Quality Policy, Complaint handling and to any process or procedure that is applicable to employees functional area.&#xA;We can design training to our client to suit their needs with engaging presentations to include quality system regulations and the attestation to the training for audit trail.&#xA;Some of the commonly used training programs are for CAPA, Complaint handling, Design control, Validation/verification studies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Regulatory Support</title>
+      <link>http://localhost:1313/post/chapter-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/chapter-3/</guid>
+      <description>&lt;p&gt;Nobel Touch quality systems provide regulatory support throughout all the stages of product life cycle to be compliant with the regulations of medical device markets including United States, Canada, Brazil, Europe, Australia, and Japan. Every country has their own sets of regulations to follow and are monitored by notified bodies. Our experts understand those regulations and work with each client to ensure that the quality system is compliant with the regulations of intended market.&#xA;Either you are looking for Compliance audits and assessment, Third party certification, Quality system development and remediation, 483/warning letter/ resolutions and responses or complaint handling for your business, Nobel Touch is one stop shop.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
